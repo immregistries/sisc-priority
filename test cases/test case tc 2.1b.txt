@@ -1,5 +1,5 @@
 MSH|^~\&|NISTEHRAPP|NISTEHRFAC|NISTIISAPP|NISTIISFAC|20200524084727.655-0500||VXU^V04^VXU_V04|NIST-IZ-AD-2.1_Send_V04_Z22|P|2.5.1|||ER|AL|||||Z22^CDCPHINVS|NISTEHRFAC|NISTIISFAC
-PID|1||90012^^^TPG-TC2.1B^MR||Chan^Rebecca^^^^^L||19810509|F||2028-9^Asian^CDCREC|7805 Georgetown Cr^^Bozeman^MT^59715^USA^P||^PRN^PH^^^406^5556732~^NET^^Rebecca.Chan@isp.com|||||||||2186-5^Not Hispanic or Latino^CDCREC||N|1|||||N
+PID|1||TPG-TC2.1B^^^NIST-MPI-1^MR||Chan^Rebecca^^^^^L||19810509|F||2028-9^Asian^CDCREC|7805 Georgetown Cr^^Bozeman^MT^59715^USA^P||^PRN^PH^^^406^5556732~^NET^^Rebecca.Chan@isp.com|||||||||2186-5^Not Hispanic or Latino^CDCREC||N|1|||||N
 PD1|||||||||||02^Reminder/recall - any method^HL70215|N|20200524|||A|19830615|20150624
 ORC|RE||9999^AIRA|
 RXA|0|1|20200505||998^No Vaccine Administered^CVX|999|||||^^^1111433000|||||||||NA|A
