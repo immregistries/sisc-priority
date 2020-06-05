@@ -11,6 +11,3 @@ OBX|4|DT|29769-7^Date Vis Presented^LN|3|20200524||||||F|||20150624
 OBX|5|CE|TPG_PAND^Priority Group - Pandemic^99TPG|4|P2020-Flu^Pandemic 2020 - Influenza^99TPG||||||F|||
 OBX|6|CE|TPG_POP_GRP^Priority Group - Population Group^99TPG|4|PG28^Healthy adults 19-64 years old^99TPG||||||F|||20200524
 OBX|7|CE|TPG_TIER^Priority Group - Tier^99TPG|4|T2^Tier 2^99TPG||||||F|||20200520
-
-
-Healthy 20 year old man received an immunization. Priority Tier was identified but not population group. Assessment date for the pandemic is missing.
