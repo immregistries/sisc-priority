@@ -4,7 +4,4 @@ PD1|||||||||||02^Reminder/recall - any method^HL70215|N|20200524|||A|19830615|20
 ORC|RE|4422^NIST-AA-IZ-2|13696^NIST-AA-IZ-2|||||||7824^Jackson^Lily^Suzanne^^^^^NIST-PI-1^L^^^PRN||654^Thomas^Wilma^Elizabeth^^^^^NIST-PI-1^L^^^MD|||||NISTEHRFAC^NISTEHRFacility^HL70362|
 RXA|0|1|20200520||135^Influenza, high dose seasonal^CVX|0.5|mL^mL^UCUM||00^New Record^NIP001|7824^Jackson^Lily^Suzanne^^^^^NIST-PI-1^L^^^PRN|^^^NIST-Clinic-1||||315841|20201216|PMC^Sanofi Pasteur^MVX|||CP|A
 RXR|C28161^Intramuscular^NCIT|RD^Right Deltoid^HL70163
-OBX|1|CE|TPG_PAND^Priority Group - Pandemic^99TPG|4|P2020-Flu^Pandemic 2020 - Influenza^99TPG||||||F|||
-OBX|2|CE|TPG_POP_GRP^Priority Group - Population Group^99TPG|4|PG07^Public health personnel^99TPG||||||F|||20200524
-OBX|3|CE|TPG_TIER^Priority Group - Tier^99TPG|4|T1^Tier 1^99TPG||||||F|||20200520
-
+OBX|1|CE|TPG_PAND^Priority Group - Pandemic^99TPG|4|P2020-Flu^Pandemic 2020 - Influenza^99TPG||||||F|||20200524
