@@ -1,0 +1,7 @@
+MSH|^~\&|NISTEHRAPP|NISTEHRFAC|NISTIISAPP|NISTIISFAC|20200524084727.655-0500||VXU^V04^VXU_V04|NIST-IZ-AD-2.1_Send_V04_Z22|P|2.5.1|||ER|AL|||||Z22^CDCPHINVS|NISTEHRFAC|NISTIISFAC
+PID|1||TPG-TC3.3A^^^NIST-MPI-1^MR||Choe^Adam^^^^^L||20000114|M||2028-9^Asian^CDCREC|8956 Town Dr^^Bozeman^MT^59715^USA^P||^PRN^PH^^^406^5559095~^NET^^Adam.Choe@isp.com|||||||||2186-5^Not Hispanic or Latino^CDCREC||N|1|||||N
+PD1|||||||||||02^Reminder/recall - any method^HL70215|N|20200524|||A|19830615|20150624
+ORC|RE|4422^NIST-AA-IZ-2|13696^NIST-AA-IZ-2|||||||7824^Jackson^Lily^Suzanne^^^^^NIST-PI-1^L^^^PRN||654^Thomas^Wilma^Elizabeth^^^^^NIST-PI-1^L^^^MD|||||NISTEHRFAC^NISTEHRFacility^HL70362|
+RXA|0|1|20200520||135^Influenza, high dose seasonal^CVX|0.5|mL^mL^UCUM||00^New Record^NIP001|7824^Jackson^Lily^Suzanne^^^^^NIST-PI-1^L^^^PRN|^^^NIST-Clinic-1||||315841|20201216|PMC^Sanofi Pasteur^MVX|||CP|A
+RXR|C28161^Intramuscular^NCIT|RD^Right Deltoid^HL70163
+OBX|1|CE|TPG_PAND^Priority Group - Pandemic^99TPG|4|P2020-Flu^Pandemic 2020 - Influenza^99TPG||||||F|||20200524
